@@ -1,0 +1,2 @@
+commands.bettertp.usage=/bettertp [target player] <x> <y> <z> <yaw> <pitch>
+commands.bettertp.success.coords=Teleported %s to %.2f,%.2f,%.2f
